@@ -1,2 +1,4 @@
 this is a file text git
-am adding another fileSS
+am adding another file
+am working on another file
+thank me later
