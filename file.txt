@@ -4,3 +4,4 @@ am working on another file
 thank me later
 ok now i discovered how to update text back into repository git add . git commit -m git push to send 
 and also saving file after type
+for your information 
